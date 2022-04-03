@@ -1,7 +1,7 @@
 {
-  "name": "beefy-api",
+  "name": "ghostdefi-api",
   "version": "1.0.0",
-  "repository": "beefyfinance/beefy-api",
+  "repository": "ghostdefidev/ghostdefi-api",
   "license": "MIT",
   "scripts": {
     "install-all": "yarn && cd packages/address-book && yarn",
@@ -49,6 +49,7 @@
     "eth-multicall": "^1.3.13",
     "ethereum-abi-types-generator": "^1.1.7",
     "ethers": "^5.0.26",
+    "ghostdefi-addressbook": "^1.0.1",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.12.4",
     "husky": "^6.0.0",
